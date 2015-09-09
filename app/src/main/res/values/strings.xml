@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PeriodicTable</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="elements">Elements</string>
+    <string name="nonmetal">nonmetal</string>
+    <string name="noble_gas">noble gas</string>
+    <string name="alkali_metal">alkali metal</string>
+    <string name="alkaline_earth_metal">alkaline earth metal</string>
+    <string name="metalloid">metalloid</string>
+    <string name="halogen">halogen</string>
+    <string name="metal">metal</string>
+    <string name="transition_metal">transition metal</string>
+    <string name="lanthanoid">lanthanoid</string>
+    <string name="actinoid">actinoid</string>
+
+    <string-array name="group_name">
+        <item>nonmetal</item>
+        <item>noble gas</item>
+        <item>alkali metal</item>
+        <item>alkaline earth metal</item>
+        <item>metalloid</item>
+        <item>halogen</item>
+        <item>metal</item>
+        <item>transition metal</item>
+        <item>lanthanoid</item>
+        <item>actinoid</item>
+    </string-array>
+
+
+
+
+</resources>
